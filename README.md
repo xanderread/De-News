@@ -1,4 +1,4 @@
-# DA-News
-Decentralised Anonymous Unbiased News Article Summariser
+# De-News
+Decentralised News Summarisation
 
-<iframe src="https://giphy.com/embed/CSbJXkbxiq40" width="480" height="298" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sacha-baron-cohen-newt-gingrich-ali-g-CSbJXkbxiq40">via GIPHY</a></p>
+![danews](https://github.com/user-attachments/assets/cad8263c-d706-4bd3-8430-5ed515490efe)
