@@ -1,2 +1,2 @@
 # DA-News
-Decentralised Anonymous Non Bias News Article Summariser
+Decentralised Anonymous Unbiased News Article Summariser
